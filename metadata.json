@@ -1,0 +1,6 @@
+{
+  "name": "Medbet Football - Live Scores & Pro Match Center",
+  "description": "Comprehensive football platform with live scores, minute-by-minute match center, tactical lineups, data-backed predictions, and virtual slip tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
